@@ -1,0 +1,54 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: f5734501-4b07-a46b-d16f-f4d95aef57d5
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 439d0ff3-67dd-3140-f769-dbfd28c87874
+  name: Software
+  pageRef: /pages/syllabus/software
+  parent: f5734501-4b07-a46b-d16f-f4d95aef57d5
+  weight: 20
+- identifier: 2614e308-dd07-490f-b250-81df82b2e3c9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: aa632f83-51fe-4fa5-8aaf-1513de806253
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 40
+- identifier: 2e91de4c-23a9-f323-866d-265121e71f07
+  name: Python Cost Model
+  pageRef: /pages/readings/python-cost-model
+  parent: aa632f83-51fe-4fa5-8aaf-1513de806253
+  weight: 50
+- identifier: 3e392c68-f217-c957-d2c8-70f39c63c084
+  name: Binary Search Trees
+  pageRef: /pages/readings/binary-search-trees
+  parent: aa632f83-51fe-4fa5-8aaf-1513de806253
+  weight: 60
+- identifier: e3deaf6c-c9a5-4aec-1ac1-aaed88b15d2f
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 80
+- identifier: 92ffcb23-abbe-6cb4-7823-19d55858f37a
+  name: Recitation Videos
+  pageRef: /video_galleries/recitation-videos
+  weight: 90
+- identifier: 7fd33342-3721-55a2-5c91-0269de56eb8f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
+- identifier: c0f2d196-d4a6-15c1-014e-ceaf83248218
+  name: Exams
+  pageRef: /pages/exams
+  weight: 110
+- identifier: 2060c3b6-19a4-548e-257e-92c3216faf14
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 120

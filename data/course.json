@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "d3ed8d10-dccb-f129-5ab3-f3e0f3cf8166",
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "97490edb-d1af-d10b-27c8-4045aa33a1af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1075c5ac-06ae-4c2c-ea8c-89e9772da78a",
+    "website": "6-006-introduction-to-algorithms-fall-2011"
+  },
+  "course_title": "Introduction to Algorithms",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.006",
+  "course_image_thumbnail": {
+    "content": "7c05c4b0-7ae0-2751-be6d-2c63b11f8b6e",
+    "website": "6-006-introduction-to-algorithms-fall-2011"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem-solving Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Programming Assignments with Examples",
+    "Lecture Notes"
+  ],
+  "site_uid": "b5627555-f7cc-4d30-876e-2710d1f25e84",
+  "site_short_id": "6.006-fall-2011",
+  "site_url_path": "courses/6-006-introduction-to-algorithms-fall-2011",
+  "title": "Course Metadata"
+}
